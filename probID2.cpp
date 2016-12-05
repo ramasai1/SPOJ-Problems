@@ -55,7 +55,7 @@ int main()
         {
             if ((j + lower) > PRIME)
                 if (prime2[j])
-                    printf("%d\n", j + lower);
+                    std::cout << '\n' << j + lower;
             if (j + lower <= PRIME)
             {
                 if (prime[j + lower])
