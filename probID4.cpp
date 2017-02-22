@@ -1,3 +1,6 @@
+//need to fix space at the end, program returns correct numbers
+//other than that
+
 #include <iostream>
 #include <vector>
 using namespace std;
